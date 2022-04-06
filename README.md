@@ -1,5 +1,5 @@
-# Trinity-Concept
-#### A TRUE/FULL P2P/IOT concept
+# THE TRINITY PROJECT
+#### A way to TRUE/FULL P2P/IOT
 
 Transmit data between peers regardless of the underlying decentralization technology they are connected with.
 
