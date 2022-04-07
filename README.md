@@ -1,5 +1,5 @@
 # THE TRINITY PROJECT
-#### A way to TRUE/FULL P2P/IOT
+#### A way to TRUE/FULL P2P/IOT/Evernet
 
 Transmit data between peers regardless of the underlying decentralization technology they are connected with.
 
