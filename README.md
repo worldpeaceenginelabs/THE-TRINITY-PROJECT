@@ -4,7 +4,7 @@
 Transmit data between peers regardless of the underlying decentralization technology they are connected with.
 
 1. A P2P hybrid browser https://github.com/ducksandgoats/hybrid-browser
-2. A P2P backend-management (support/help your favorite websites to de-centralize them) https://github.com/draeder/donate-decentralize
+2. A P2P backend-management, for your next new or existing p2p (website, app ,client, server, api) (support/help your favorite websites (or your own) to de-centralize them) https://github.com/draeder/donate-decentralize
 3. A webcomponent which activates all your favourite decentralized stacks, and provides your fanbase a tracker donation feature, for your next new or existing p2p (website, app ,client, server, api) https://github.com/worldpeaceenginelabs/DONATE-DECENTRALIZE-UI
 <br><br><br>
 
