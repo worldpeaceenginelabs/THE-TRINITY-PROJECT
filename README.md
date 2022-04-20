@@ -16,3 +16,10 @@ The Trinity Project consists of three independant parts:
 ![image](https://user-images.githubusercontent.com/67427045/162992621-3b78b0d3-7f11-495a-a834-46014f493cd5.png)
 
 ![image](https://user-images.githubusercontent.com/67427045/162993317-9a45af4b-23ee-4a1d-97c4-37e05f1eb6ac.png)
+
+# Future Features
+
+- Different providers than Heroku
+- exe for Windows desktop
+- appimage for Linux
+- apk for Android/IOS
