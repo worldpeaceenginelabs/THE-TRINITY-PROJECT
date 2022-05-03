@@ -5,7 +5,7 @@ The Trinity Project consists of three independant parts:
 
 1. A P2P hybrid browser https://github.com/ducksandgoats/hybrid-browser
 
-![image](https://user-images.githubusercontent.com/67427045/162994029-5f45a80e-4e6b-4b24-abaf-6b15f1455805.png)
+![image](https://user-images.githubusercontent.com/67427045/166432022-a2d2e71a-c22d-4e4b-9388-0242f2a2840c.png)
 <br><br><br>
 
 2. A P2P backend-management, for your next new p2p or already existing but yet centralized (website, app ,client, server, api) (support/help your favorite websites (or your own) to de-centralize them) Transmit data between peers regardless of the underlying decentralization technology they are connected with. https://github.com/draeder/donate-decentralize
